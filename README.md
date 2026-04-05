@@ -1,2 +1,25 @@
-# India-public-debt-sustainability
-Econometric analysis of India's public debt sustainability using regression models and the Bohn (1998) framework.
+# India's Public Debt Sustainability Analysis
+
+This project analyzes the sustainability of India's public debt using econometric techniques.
+
+Methodology used:
+- OLS Regression Model
+- Bohn (1998) Fiscal Sustainability Test
+- Diagnostic Tests
+- Debt Forecasting
+
+Software:
+Python
+
+Libraries:
+pandas
+numpy
+statsmodels
+matplotlib
+
+Key Results:
+- Debt dynamics are influenced significantly by the primary deficit.
+- Bohn sustainability test indicates lack of fiscal sustainability.
+
+Author:
+Smaranika Dash
